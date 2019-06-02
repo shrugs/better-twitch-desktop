@@ -1,3 +1,9 @@
+this is just a fork of the electron quick start that loads twitch.tv and it actually supports viewing ads, using the search bar, and of course, interacting with extensions
+
+to see the exemplary engineering that went into making this incredible feat, check out [the commit](https://github.com/shrugs/better-twitch-desktop/commit/9770976eadfb4bfcdad2a02255e8eada0d96df2e#diff-7a9076d6d94e62c13d641aa71f19ae8eR19)
+
+yes, that's it. no, I don't know how the proprietary app is so broken.
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
